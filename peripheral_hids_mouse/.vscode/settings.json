@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "assert.h": "c",
+        "app_ble_hid_cfg.h": "c",
+        "app_ble_hid_mouse.h": "c",
+        "app_ble_hid_keyboard.h": "c",
+        "stddef.h": "c",
+        "app_pin_cfg.h": "c",
+        "errno.h": "c"
+    }
+}
